@@ -1,5 +1,5 @@
-\contentsline {section}{前言}{1}{section*.2}%
+\contentsline {section}{前言}{1}{section*.3}%
 \contentsline {section}{\numberline {第一章}吹响吧！小号}{2}{section.1}%
-\contentsline {section}{\numberline {第二章}吹响吧！长号}{20}{section.2}%
-\contentsline {section}{\numberline {第三章}吹响吧！上低音号}{46}{section.3}%
-\contentsline {section}{尾声}{88}{section*.3}%
+\contentsline {section}{\numberline {第二章}吹响吧！长号}{21}{section.2}%
+\contentsline {section}{\numberline {第三章}吹响吧！上低音号}{47}{section.3}%
+\contentsline {section}{尾声}{88}{section*.4}%
